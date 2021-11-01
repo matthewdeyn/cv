@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang = "en" dir = "ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Coffee Writing</title>
+  </head>
+  <body>
+    <ul>
+      <li>
+        <a href="https://perfectdailygrind.com/2021/11/exploring-coffee-culture-in-prague/">Exploring Coffee Culture in Prague</a>
+      </li>
+      <li>
+        <a href="https://europeancoffeetrip.com/sip-n-slurp-book-freda-yuan/">Sip 'n' Slurp Book Review for European Coffee Trip</a>
+      </li>
+      <li>
+        <a href="https://brewcoffeeplus.com/blogs/journal/what-i-learnt-from-entering-the-uk-roasting-championships">What I Learnt from Entering the UK Roasting Championships</a>
+      </li>
+      <li>
+        <a href="https://www.caffeinemag.com/product/dcaf44">WTF is Coffee Yeast? - Caffeine Magazine</a>
+      </li>
+    </ul>
+  </body>
+</html>
